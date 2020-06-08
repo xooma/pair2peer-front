@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+@import 'src/styles/vars';
+ 
+
+.logo {
+  font-family: 'Fira Code', monospace;
+  padding-left: .7rem;
+}
