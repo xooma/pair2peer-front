@@ -1,2 +1,2 @@
 # pair2peer-front
-end of study intern project
+### End of study intern project
